@@ -77,3 +77,16 @@ if __name__ == "__main__":
 # next we can add colors to the progress bar using ANSI escape codes
 # for example we can make the filled part green and the unfilled part red
 # this would make it more visually appealing    
+# how about make it visual like filling in a glass of water
+# we can use different characters to represent the filled and unfilled parts
+# for example we can use '█' for filled and '░' for unfilled
+# this would give a more solid look to the progress bar
+# we can also add percentage to the progress bar
+# for example 50% [#####-----]
+# this would give a clearer idea of the progress made
+# we can also add a spinner to indicate that the process is ongoing
+# for example [#####-----] |
+# this would give a dynamic feel to the progress bar
+# we can also add a time estimate to the progress bar
+# for example [#####-----] 50% 2 min remaining
+
