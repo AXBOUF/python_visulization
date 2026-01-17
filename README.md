@@ -9,16 +9,13 @@ and understanding trade-offs.
 ### Repository Structure
 
 - **machine_learning/**  
-  Classification, clustering, and recommender systems
+  Classification, clustering, and recommender systems   Network and telemetry anomaly detection experiments
 
 - **data_analysis/**  
   Exploratory analysis and time-series studies
 
 - **big_data/**  
   Spark-based projects including large-scale NYC Taxi data
-
-- **anomaly_detection/**  
-  Network and telemetry anomaly detection experiments
 
 ### Notes
 - Many projects originated as coursework and were later refined
